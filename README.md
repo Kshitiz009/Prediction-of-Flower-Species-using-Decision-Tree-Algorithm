@@ -11,4 +11,4 @@ Numpy,Pandas,Matplotlib,Seaborn
 
 ### Task Video :
 
-https://user-images.githubusercontent.com/90971288/154936478-8b3d25f7-197e-47cc-936d-85fb4bf09db4.mp4
+https://www.linkedin.com/posts/kshitij-borhade-a1a526230_prediction-of-flower-species-using-decision-tree-algorithm-activity-7002194190851805184-FESi?utm_source=share&utm_medium=member_desktop
